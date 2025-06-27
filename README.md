@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Pranav Vashistha
  **A passionate Developer and Learner from India.**
  
-**Software Developer | Aspiring AI Engineer**
+**Aspiring AI Engineer**
 
  I’m passionate about building intelligent systems and contributing to impactful open-source projects.
 
